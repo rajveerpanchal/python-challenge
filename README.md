@@ -1,5 +1,3 @@
-# TREESHA INFOTECH
-
 
 # Python Challenge
 
